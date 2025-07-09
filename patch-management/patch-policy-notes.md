@@ -1,0 +1,1 @@
+# Patch timing, rollback, and GPG trust

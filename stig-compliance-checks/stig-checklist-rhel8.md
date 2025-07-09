@@ -1,0 +1,1 @@
+# Checklist of STIG controls

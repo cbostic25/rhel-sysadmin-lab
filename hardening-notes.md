@@ -1,1 +1,0 @@
-# Notes on SELinux, firewalld, STIG checks
